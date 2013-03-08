@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GettextNetTest\n"
+"POT-Creation-Date: 2013-01-16 02:01+0100\n"
+"PO-Revision-Date: 2013-01-16 12:44+0100\n"
+"Last-Translator: Miroslav Hudak <mhudak@enscope.com>\n"
+"Language-Team: Enscope, s.r.o. <dev@enscope.com>\n"
+"Language: de-DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: GetString;GetStringNum:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\\..\n"
+
+#: c:\Projects\GettextNet\GettextNetTest/Program.cs:21
+msgid "This is a test."
+msgstr "Das ist ein Test."
+
+#: c:\Projects\GettextNet\GettextNetTest/Program.cs:22
+msgid "Testing this translation facility."
+msgstr "Testen diese Übersetzung Anlage."
+
+#: c:\Projects\GettextNet\GettextNetTest/Program.cs:23
+msgid "These strings will be automatically translated."
+msgstr "Diese Strings werden automatisch übersetzt."
+
+#: c:\Projects\GettextNet\GettextNetTest/Program.cs:24
+msgid "And this is one more string to translate."
+msgstr "Und dies ist ein weiterer String zu übersetzen."
+
+#: c:\Projects\GettextNet\GettextNetTest/Program.cs:30
+#, csharp-format
+msgid "{0} file"
+msgid_plural "{0} files"
+msgstr[0] "{0} Datei"
+msgstr[1] "{0} Dateien"

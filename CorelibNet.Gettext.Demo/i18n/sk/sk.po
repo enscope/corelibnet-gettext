@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GettextNetTest\n"
+"POT-Creation-Date: 2013-01-16 12:44+0100\n"
+"PO-Revision-Date: 2013-01-16 12:58+0100\n"
+"Last-Translator: Miroslav Hudak <mhudak@enscope.com>\n"
+"Language-Team: Enscope, s.r.o. <dev@enscope.com>\n"
+"Language: sk-SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;_n:1,2;Gettext.Format;Gettext.FormatNum:1,2;Gettext."
+"Translate;Gettext.TranslateNum:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\\..\n"
+
+#: ..\../Program.cs:17
+msgid "This is a test."
+msgstr "Toto je test."
+
+#: ..\../Program.cs:18
+msgid "Testing this translation facility."
+msgstr "Testovanie prekladovej knižnice."
+
+#: ..\../Program.cs:19
+msgid "These strings will be automatically translated."
+msgstr "Tieto reťazce budú automaticky preložené."
+
+#: ..\../Program.cs:20
+msgid "And this is one more string to translate."
+msgstr "A toto je ďalší reťazec na preloženie."
+
+#: ..\../Program.cs:48
+#, csharp-format
+msgid "{0} file"
+msgid_plural "{0} files"
+msgstr[0] "{0} súbor"
+msgstr[1] "{0} súbory"
+msgstr[2] "{0} súborov"
+
+#: ..\../Program.cs:49
+#, csharp-format
+msgid "This is some translatable text with {0} parameter."
+msgstr "Toto je preložiteľný text s {0} parametrom."
